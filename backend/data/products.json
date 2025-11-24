@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "description": "Over-ear headphones with deep bass, 30h battery life, and fast charging.",
+    "price": 59.99,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/headphones/600/600.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Watch",
+    "description": "Track steps, heart rate, sleep, and workouts with a bright AMOLED display.",
+    "price": 74.50,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/fitnesswatch/600/600.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Minimal Leather Wallet",
+    "description": "Slim RFID-blocking wallet with 6 card slots and premium stitching.",
+    "price": 24.99,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/wallet/600/600.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Portable Bluetooth Speaker",
+    "description": "Compact speaker with punchy sound, IPX5 water resistance, and 12h playtime.",
+    "price": 39.90,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/speaker/600/600.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ergonomic Office Chair",
+    "description": "Adjustable lumbar support, breathable mesh, and smooth recline for long hours.",
+    "price": 129.00,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/officechair/600/600.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Stainless Steel Water Bottle",
+    "description": "Vacuum insulated bottle keeps drinks cold 24h and hot 12h.",
+    "price": 18.75,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/waterbottle/600/600.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Gaming Mouse RGB",
+    "description": "High-precision 8000 DPI mouse with programmable buttons and RGB lighting.",
+    "price": 21.99,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/gamingmouse/600/600.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mechanical Keyboard",
+    "description": "Tactile blue switches, anti-ghosting, and customizable backlight modes.",
+    "price": 64.00,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/keyboard/600/600.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Noise Cancelling Earbuds",
+    "description": "In-ear ANC earbuds with clear calls and pocket charging case.",
+    "price": 49.99,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/earbuds/600/600.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ceramic Coffee Mug Set",
+    "description": "Set of 2 matte-finish mugs, microwave safe and easy to clean.",
+    "price": 16.50,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/coffeemug/600/600.jpg"
+  },
+  {
+    "id": 11,
+    "name": "LED Desk Lamp",
+    "description": "Touch controls, 3 color modes, and flexible neck for study/work.",
+    "price": 22.40,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/desklamp/600/600.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Travel Backpack 28L",
+    "description": "Water-resistant backpack with laptop sleeve and smart pockets.",
+    "price": 45.00,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/backpack/600/600.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Running Shoes",
+    "description": "Lightweight shoes with breathable mesh and cushioned sole.",
+    "price": 69.95,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/runningshoes/600/600.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Yoga Mat Non-Slip",
+    "description": "6mm thick mat with excellent grip, ideal for yoga and stretching.",
+    "price": 19.99,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/yogamat/600/600.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Cookware Pan Set",
+    "description": "3-piece nonstick pans with even heat distribution.",
+    "price": 54.25,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/panset/600/600.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Wireless Phone Charger",
+    "description": "15W fast wireless charger compatible with most modern phones.",
+    "price": 17.80,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/wirelesscharger/600/600.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Action Camera 4K",
+    "description": "Waterproof 4K action cam with wide-angle lens + accessories kit.",
+    "price": 89.99,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/actioncam/600/600.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Electric Kettle 1.5L",
+    "description": "Quick-boil kettle with auto shutoff and stainless steel body.",
+    "price": 26.70,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/kettle/600/600.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Air Purifier Mini",
+    "description": "HEPA filter purifier for small rooms and desks, ultra quiet.",
+    "price": 58.00,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/airpurifier/600/600.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Scented Candle Set",
+    "description": "Pack of 4 calming fragrances for living room/bedroom.",
+    "price": 14.99,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/candles/600/600.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Portable SSD 1TB",
+    "description": "High-speed external SSD with USB-C for backups and gaming.",
+    "price": 109.50,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/ssd/600/600.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Polarized Sunglasses",
+    "description": "UV400 protection with lightweight frame for daily use.",
+    "price": 19.50,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/sunglasses/600/600.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Wireless Router Dual Band",
+    "description": "AC1200 dual-band router with stable coverage for home.",
+    "price": 47.99,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/router/600/600.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Electric Toothbrush",
+    "description": "2-minute timer, 3 brushing modes, and 2 brush heads included.",
+    "price": 29.95,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/toothbrush/600/600.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Classic Analog Wall Clock",
+    "description": "Silent sweep movement with a clean minimalist dial.",
+    "price": 12.99,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/wallclock/600/600.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Laptop Stand Aluminum",
+    "description": "Adjustable height stand for better posture and cooling.",
+    "price": 23.99,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/laptopstand/600/600.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Kitchen Knife Set",
+    "description": "5-piece stainless steel knives with wooden block.",
+    "price": 34.00,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/knifeset/600/600.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Portable Tripod Stand",
+    "description": "Lightweight phone/camera tripod with 360° rotation head.",
+    "price": 15.25,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/tripod/600/600.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Smart LED Bulb",
+    "description": "Wi-Fi enabled bulb with dimming and 16M colors.",
+    "price": 9.99,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/ledbulb/600/600.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Electric Hand Blender",
+    "description": "600W blender for shakes, soups, and smoothies with 2 speed modes.",
+    "price": 27.49,
+    "quantity": 1,
+    "image": "https://picsum.photos/seed/handblender/600/600.jpg"
+  }
+]

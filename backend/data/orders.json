@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "firstName": "Mehul",
+    "lastName": "Bhanderi",
+    "address": "asadasdas",
+    "cartItems": [
+      {
+        "id": 1,
+        "name": "Product 1",
+        "description": "Description of Product 1",
+        "price": 10.99,
+        "quantity": 3,
+        "image": "product1.jpg"
+      }
+    ],
+    "total": 32.97,
+    "createdAt": "2025-11-22T05:50:15.776Z"
+  },
+  {
+    "id": 2,
+    "firstName": "sdfds",
+    "lastName": "sdfs",
+    "address": "sdfsd",
+    "cartItems": [
+      {
+        "id": 1,
+        "name": "Product 1",
+        "description": "Description of Product 1",
+        "price": 10.99,
+        "quantity": 1,
+        "image": "product1.jpg"
+      }
+    ],
+    "total": 10.99,
+    "createdAt": "2025-11-22T05:55:24.456Z"
+  },
+  {
+    "id": 3,
+    "firstName": "Mehul",
+    "lastName": "Bhanderi",
+    "address": "hehehe",
+    "cartItems": [
+      {
+        "id": 2,
+        "name": "Product 2",
+        "description": "Description of Product 2",
+        "price": 15.99,
+        "quantity": 2,
+        "image": "product2.jpg"
+      }
+    ],
+    "total": 31.98,
+    "createdAt": "2025-11-22T05:55:51.172Z"
+  },
+  {
+    "id": 4,
+    "firstName": "Mehul",
+    "lastName": "bh",
+    "address": "sada",
+    "cartItems": [
+      {
+        "id": 1,
+        "name": "Product 1",
+        "description": "Description of Product 1",
+        "price": 10.99,
+        "quantity": 1,
+        "image": "product1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Product 2",
+        "description": "Description of Product 2",
+        "price": 15.99,
+        "quantity": 1,
+        "image": "product2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Product 3",
+        "description": "Description of Product 3",
+        "price": 8.99,
+        "quantity": 1,
+        "image": "product3.jpg"
+      }
+    ],
+    "total": 35.97,
+    "status": "PENDING",
+    "createdAt": "2025-11-22T05:58:17.806Z"
+  },
+  {
+    "id": 5,
+    "firstName": "Mehul",
+    "lastName": "Bhanderi",
+    "address": "qdqwdqw",
+    "cartItems": [
+      {
+        "id": 30,
+        "name": "Electric Hand Blender",
+        "description": "600W blender for shakes, soups, and smoothies with 2 speed modes.",
+        "price": 27.49,
+        "quantity": 2,
+        "image": "https://picsum.photos/seed/handblender/600/600.jpg"
+      },
+      {
+        "id": 1,
+        "name": "Wireless Bluetooth Headphones",
+        "description": "Over-ear headphones with deep bass, 30h battery life, and fast charging.",
+        "price": 59.99,
+        "quantity": 1,
+        "image": "https://picsum.photos/seed/headphones/600/600.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Smart Fitness Watch",
+        "description": "Track steps, heart rate, sleep, and workouts with a bright AMOLED display.",
+        "price": 74.5,
+        "quantity": 2,
+        "image": "https://picsum.photos/seed/fitnesswatch/600/600.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Travel Backpack 28L",
+        "description": "Water-resistant backpack with laptop sleeve and smart pockets.",
+        "price": 45,
+        "quantity": 1,
+        "image": "https://picsum.photos/seed/backpack/600/600.jpg"
+      },
+      {
+        "id": 29,
+        "name": "Smart LED Bulb",
+        "description": "Wi-Fi enabled bulb with dimming and 16M colors.",
+        "price": 9.99,
+        "quantity": 1,
+        "image": "https://picsum.photos/seed/ledbulb/600/600.jpg"
+      }
+    ],
+    "total": 318.96000000000004,
+    "status": "PENDING",
+    "createdAt": "2025-11-22T06:13:38.631Z"
+  }
+]
